@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/cocoapods/l/SegueKit.svg?style=flat)](http://cocoapods.org/pods/SegueKit)
 [![Platform](https://img.shields.io/cocoapods/p/SegueKit.svg?style=flat)](http://cocoapods.org/pods/SegueKit)
 
-⚠️ This readme describes SegueKit 3.0 version that requires Swift 3.0.  
+⚠️ This readme describes SegueKit 4.0 version that requires Swift 4.0.  
 ⚠️ If you are looking for Swift 2.3 compatible version, please take a look at SegueKit ~> 2.0 versions and swift2.3 branch.
 
 ## About me
